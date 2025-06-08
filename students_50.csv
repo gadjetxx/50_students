@@ -1,0 +1,51 @@
+StudentID,FullName,Email,Course,Year
+1001,Sofia Papadaki,student1@uni.gr,Data Engineering,2023
+1002,Ioanna Dimitriou,student2@uni.gr,FAIR Data,2025
+1003,Maria Dimitriou,student3@uni.gr,Linked Data,2025
+1004,Kostas Ioannidis,student4@uni.gr,Linked Data,2025
+1005,Giorgos Papadopoulos,student5@uni.gr,Semantic Web,2025
+1006,Ioanna Dimitriou,student6@uni.gr,FAIR Data,2022
+1007,Ioanna Nikolaidis,student7@uni.gr,Knowledge Graphs,2025
+1008,Maria Zafeiriou,student8@uni.gr,Linked Data,2023
+1009,Sofia Koutroumanos,student9@uni.gr,Semantic Web,2022
+1010,Nikos Dimitriou,student10@uni.gr,RDF & OWL,2022
+1011,Ioanna Giannakos,student11@uni.gr,Data Engineering,2022
+1012,Giorgos Spanou,student12@uni.gr,Data Engineering,2025
+1013,Maria Markou,student13@uni.gr,FAIR Data,2023
+1014,Anna Dimitriou,student14@uni.gr,RDF & OWL,2022
+1015,Kostas Koutroumanos,student15@uni.gr,Linked Data,2024
+1016,Eleni Spanou,student16@uni.gr,FAIR Data,2024
+1017,Maria Markou,student17@uni.gr,Data Engineering,2024
+1018,Dimitris Ioannidis,student18@uni.gr,Knowledge Graphs,2022
+1019,Giorgos Zafeiriou,student19@uni.gr,RDF & OWL,2025
+1020,Dimitris Koutroumanos,student20@uni.gr,Ontologies,2023
+1021,Vasiliki Markou,student21@uni.gr,Linked Data,2023
+1022,Vasiliki Papadaki,student22@uni.gr,Knowledge Graphs,2022
+1023,Giorgos Ioannidis,student23@uni.gr,FAIR Data,2023
+1024,Ioanna Dimitriou,student24@uni.gr,Data Engineering,2025
+1025,Maria Dimitriou,student25@uni.gr,Linked Data,2023
+1026,Eleni Zafeiriou,student26@uni.gr,FAIR Data,2024
+1027,Kostas Zafeiriou,student27@uni.gr,Semantic Web,2022
+1028,Eleni Ioannidis,student28@uni.gr,Semantic Web,2025
+1029,Eleni Giannakos,student29@uni.gr,RDF & OWL,2023
+1030,Eleni Nikolaidis,student30@uni.gr,Ontologies,2024
+1031,Ioanna Papadopoulos,student31@uni.gr,RDF & OWL,2024
+1032,Eleni Papadaki,student32@uni.gr,FAIR Data,2022
+1033,Anna Nikolaidis,student33@uni.gr,FAIR Data,2023
+1034,Vasiliki Spanou,student34@uni.gr,Linked Data,2022
+1035,Anna Ioannidis,student35@uni.gr,Data Engineering,2023
+1036,Maria Giannakos,student36@uni.gr,Ontologies,2023
+1037,Vasiliki Papadopoulos,student37@uni.gr,Knowledge Graphs,2025
+1038,Sofia Nikolaidis,student38@uni.gr,Semantic Web,2023
+1039,Ioanna Nikolaidis,student39@uni.gr,RDF & OWL,2023
+1040,Dimitris Giannakos,student40@uni.gr,Data Engineering,2024
+1041,Giorgos Nikolaidis,student41@uni.gr,Knowledge Graphs,2024
+1042,Kostas Zafeiriou,student42@uni.gr,Linked Data,2023
+1043,Dimitris Zafeiriou,student43@uni.gr,Knowledge Graphs,2022
+1044,Nikos Giannakos,student44@uni.gr,Knowledge Graphs,2023
+1045,Eleni Koutroumanos,student45@uni.gr,Knowledge Graphs,2024
+1046,Anna Zafeiriou,student46@uni.gr,Semantic Web,2022
+1047,Maria Koutroumanos,student47@uni.gr,Ontologies,2023
+1048,Nikos Zafeiriou,student48@uni.gr,Linked Data,2023
+1049,Sofia Ioannidis,student49@uni.gr,Linked Data,2025
+1050,Ioanna Dimitriou,student50@uni.gr,Knowledge Graphs,2023
